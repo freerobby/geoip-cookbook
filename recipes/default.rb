@@ -13,3 +13,6 @@ package "geoip-bin" do
   action :upgrade
 end
 
+package "libgeoip-dev" do
+  action :upgrade
+end
